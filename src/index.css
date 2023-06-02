@@ -1,0 +1,16 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px; /* width of the entire scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent; /* color of the tracking area */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #701a75; /* color of the scroll thumb */
+    border-radius: 20px; /* roundness of the scroll thumb */
+    border: none; /* creates padding around scroll thumb */
+  }
