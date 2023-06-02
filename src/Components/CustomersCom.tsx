@@ -51,7 +51,7 @@ const CustomersCom: React.FC<CustomersComProps> = ({}) => {
       sortable: true,
     },
     {
-      name: "Country",
+      name: "Cuntry",
       selector: (row: any) => row.country,
       sortable: true,
     },
