@@ -1,4 +1,4 @@
-# kinal-task
+# knila-task
 
 # Project Setup
 
@@ -7,10 +7,10 @@ This project is set up using Vite.
 ## Installation
 
 Step 1: Clone the project repository by running the following command:
-git clone https://github.com/JeraldAsj/kinal-task.git
+git clone https://github.com/JeraldAsj/knial-task.git
 
 Step 2: Navigate to the project directory:
-cd kinal-task
+cd knila-task
 
 Step 3: Install the required dependencies using npm or yarn. Choose one of the following commands based on your preferred package manager:
 
