@@ -7,7 +7,7 @@ This project is set up using Vite.
 ## Installation
 
 Step 1: Clone the project repository by running the following command:
-git clone https://github.com/JeraldAsj/knial-task.git
+git clone https://github.com/JeraldAsj/knila-task.git
 
 Step 2: Navigate to the project directory:
 cd knila-task
